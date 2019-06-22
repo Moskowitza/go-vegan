@@ -1,0 +1,29 @@
+.footer {
+  min-height: 50px;
+  position: relative;
+  background:linear-gradient(to bottom right,#5F9EA0,  Green, rgb(160, 221, 211) );
+  padding: 20px 0;
+
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+
+}
+
+.footer div{
+  padding: 10px;
+  margin:10 px;
+  text-align: center;
+   color:white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 15px;
+}
+
+.footer a{
+  color: snow;
+}

@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+/* html,body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  
+} */
+
+/* body {
+  background-image: url("https://images.unsplash.com/photo-1525017165560-1dcdd90266bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f127c60a2496bb1d63bcbc759c13f00d&auto=format&fit=crop&w=634&q=80");
+  background-size: repeat;
+} */
+
+/* https://images.unsplash.com/photo-1525017165560-1dcdd90266bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f127c60a2496bb1d63bcbc759c13f00d&auto=format&fit=crop&w=634&q=80
+
+https://images.unsplash.com/photo-1518569656558-1f25e69d93d7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=54438a86c469d625d6edc7b519dee56c&auto=format&fit=crop&w=634&q=80 */

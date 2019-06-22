@@ -1,0 +1,10 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.navbar-default {
+  padding: 10px;
+}
+.nav-link {
+  color: lightblue;
+}

@@ -1,0 +1,15 @@
+.header {
+    background:linear-gradient(to bottom right, #5F9EA0,  Green, rgb(160, 221, 211));
+    padding: 20px 0;
+}
+h1{
+    text-align: center;
+    color:white;
+    font-family: 'Monoton', cursive;
+}
+h2{
+    text-align: center;
+    color:white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
